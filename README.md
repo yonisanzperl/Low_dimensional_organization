@@ -1,4 +1,4 @@
-# Perturbation_in_dynamical_models
+# Low dimensional Organization of global brain states of reduced consciousness
 Repository containing the codes to reproduce the work
 
 
@@ -6,4 +6,4 @@ Addtopath contains several functions that are needed in the Auto_hopf.m script t
 
 Kick folder contains the script to perform the pertubation with external forcing over the Stuart Landau Oscillators
 
-Figures folder contains the data to reproduce the figures displayed on the paper.
+The VAE folder contains the codes to encoded the modeled functional connectivity from different brain states.
