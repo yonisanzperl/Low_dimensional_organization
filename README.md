@@ -1,4 +1,4 @@
-# Low dimensional Organization of global brain states of reduced consciousness
+# Low dimensional organization of global brain states of reduced consciousness
 Repository containing the codes to reproduce the work
 
 
