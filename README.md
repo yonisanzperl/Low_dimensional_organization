@@ -1,5 +1,5 @@
 # Low dimensional organization of global brain states of reduced consciousness
-Repository containing the codes to reproduce the work
+Repository containing the codes to reproduce the work published in Cell Reports (https://www.cell.com/cell-reports/pdf/S2211-1247(23)00502-8.pdf)
 
 The scritps to perform the whole-brain model for different brain state together with the VAE generation based on the modeled functional connectivity are present in here.
 
